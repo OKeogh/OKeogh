@@ -1,19 +1,24 @@
 ## Hi there 👋
 
-<!--
-**OKeogh/OKeogh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning to code and building things as I go.
 
-Here are some ideas to get you started:
+What I'm Working On: Building a book app with AI chat features. Still figuring things out but making progress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current stack:
+React Native / Expo
+Python
+Claude API
+Some design work
+
+Learning: 
+React Native basics
+Python and FastAPI
+How to connect frontends and backends
+Working with APIs
+Design and UX
+
+Background
+I'm more of a vibe coder - I learn by building stuff and seeing what works. Still early in my coding journey but enjoying the process.
 
 
 <div align="center"> 
